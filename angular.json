@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-hw5"
+    }
+  },
+  "defaultProject": "Angular-hw5",
+  "cli": {
+    "analytics": "ae980b8e-eb53-47cb-b426-f45ba7c79f82"
+  }
 }
